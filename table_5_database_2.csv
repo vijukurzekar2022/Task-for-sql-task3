@@ -1,0 +1,201 @@
+"sr_no","person_name","person_info","address","age","income","tax_paid","house_no"
+1,"Sanvi","Palloti","nagpur",80,75,85,90
+2,"Shubhu","GVVK","bhandara",70,85,95,70
+3,"Harsha","NNJ","Sahapur",65,85,70,80
+4,"Aruna","GVVK","Umred",70,60,55,65
+5,"Aditya","Sent claret","nagpur",80,85,75,90
+6,"Prachi","Palloti","nagpur",70,85,65,70
+7,"Rosan","Gurunanak","Bhandara",80,65,55,70
+8,"Jayant","GCEM","Dongargaon",90,68,77,87
+9,"Dipak","GOCE","Chandrapur",90,55,75,80
+10,"Archana","Gayakwad patil","Mohgaon",60,78,85,70
+11,"Sanvi","Palloti","nagpur",80,75,85,90
+12,"Digaram","Palloti","nagpur",80,75,85,90
+13,"Sevak","Pune","bhandara",70,85,95,70
+14,"Ravi","Hinganghat","Sahapur",65,85,70,80
+15,"Sakshi","GCOE","Gondia",70,60,55,65
+16,"Sushila","Sent claret","nagpur",80,85,75,90
+17,"Parv","Maharshi","Bela",70,85,65,70
+18,"Tiya","GOEM","sakoli",80,65,55,70
+19,"Sagar","Raisoni","Pune",90,68,77,87
+20,"Ajit","GOCE","Chandrapur",90,55,75,80
+21,"Amit","Gayakwad patil","Mohgaon",60,78,85,70
+22,"Pranay","YCC","Hingana",70,75,85,90
+23,"Swati","YCC","Hingana",60,74,65,50
+24,"Chetana","YCC","Hingana",84,65,89,80
+25,"Riya","YCC","Hingana",81,73,75,60
+26,"Aarav","IIT Delhi","New Delhi",95,92,96,88
+27,"Priya Sharma","Miranda House","Dwarka, Delhi",82,85,79,91
+28,"Rohan Menon","BITS Pilani","Bengaluru",78,75,70,80
+29,"Sneha Reddy","Presidency College","Chennai",90,93,91,95
+30,"Akash Verma","St. Xavier's College","Kolkata",65,72,68,75
+31,"Diya Patel","Fergusson College","Pune",88,80,82,84
+32,"Karan Joshi","IIM Ahmedabad","Ahmedabad",72,68,70,65
+33,"Tanu Gupta","Jadavpur University","Kolkata",93,96,94,92
+34,"Vijay Kumar","Osmania University","Hyderabad",81,79,77,80
+35,"Meera Nair","Christ University","Bengaluru",60,62,58,64
+36,"Harshita Rao","VIT Vellore","Bangalore",89,86,87,78
+37,"Siddharth Das","NIT Trichy","Trichy",76,74,81,73
+38,"Anjali Iyer","Loyola College","Chennai",91,90,89,94
+39,"Rajesh Yadav","Delhi University","West Delhi",68,65,62,70
+40,"Kavya Shah","Amity University","UP",85,83,80,86
+41,"Nikhil Kapoor","Manipal University","Manipal",77,79,75,82
+42,"Ritu Bhasin","SVKM's NMIMS","MH",94,95,97,90
+43,"Gaurav Taneja","SRM Institute","Chennai",63,66,61,67
+44,"Preeti Murthy","IISc Bangalore","Bangalore",98,97,99,96
+45,"Arjun Singh","IIIT Hyderabad","TS",84,81,85,76
+46,"Vikas Tiwari","Lucknow University","UP",71,75,73,69
+47,"Shreya Malik","Panjab University","Chandigarh",83,87,84,81
+48,"Deepak Kulkarni","Pune University","MH",67,64,60,66
+49,"Lata Verma","Banasthali Vidyapith","RJ",96,98,95,99
+50,"Manish Negi","Graphic Era Univ.","UK",79,76,78,72
+51,"Aisha Sheikh","Jamia Millia Islamia","New Delhi",80,82,76,85
+52,"Sandeep Ghosh","IIT Kharagpur","WB",97,99,98,93
+53,"Nandini Das","Utkal University","Odisha",62,67,63,61
+54,"Rohit Sharma","Mumbai University","Mumbai",74,70,72,77
+55,"Meghna Pillai","Madras University","TN",86,88,86,89
+56,"Ravi Chettri","North-Eastern Hill Univ.","Meghalaya",68,71,69,75
+57,"Pooja Hegde","Kuvempu University","Shimoga, KA",90,84,83,87
+58,"Sanjay Raut","Birla College","MH",75,78,74,70
+59,"Juhi Chandra","Calcutta Univ.","Kolkata",91,92,90,89
+60,"Alok Singh","Ambedkar University","Delhi",66,60,59,62
+61,"Divya Soni","Gujarat University","GJ",88,91,85,90
+62,"Firoz Ahmed","IIEST Shibpur","WB",83,86,88,84
+63,"Himani Rana","JNTU Hyderabad","TS",73,77,75,79
+64,"Jatin Bawa","DAV College","Chandigarh",61,65,67,63
+65,"Kriti Sen","Lady Shri Ram College","New Delhi",97,93,94,98
+66,"Arun Tiwari","BHU","UP",85,89,82,81
+67,"Simran Kaur","IIM Shillong","Meghalaya",76,73,77,74
+68,"Devanshi Saini","Delhi Technological Univ.","New Delhi",93,90,91,92
+69,"Eshaan Mukherjee","St. Stephen's College","New Delhi",67,64,60,66
+70,"Gautam Singh","NIT Rourkela","Odisha",80,82,84,78
+71,"Hina Wadhwa","Hans Raj College","New Delhi",88,85,86,83
+72,"Inderjeet Gill","SGT University","Gurugram, HR",70,72,68,71
+73,"Jahnavi Varma","Andhra University","Visakhapatnam, AP",94,96,97,95
+74,"Kunal Mehra","Rani Durgavati Univ.","Jabalpur, MP",63,66,62,65
+75,"Lekha Sree","Anna University","Chennai, TN",98,99,95,97
+76,"Mohan Raj","Madurai Kamaraj Univ.","Madurai, TN",74,70,72,77
+77,"Nidhi Bansal","BML Munjal University","Gurugram, HR",86,88,89,85
+78,"Omkar Shinde","Shivaji University","Kolhapur, MH",75,78,73,70
+79,"Parul Garg","Maharaja Agrasen Univ.","Solan, HP",91,94,92,93
+80,"Qasim Rizvi","Maulana Azad College","Kolkata",66,60,59,62
+81,"Reema Singh","Goa University","Goa",87,91,85,90
+82,"Sanya D'Souza","St. Joseph's College","Bangalore",83,86,88,84
+83,"Tarun Malik","JNTU Kakinada","Kakinada, AP",73,77,75,79
+84,"Urmi Desai","MS University Baroda","Vadodara, GJ",61,65,67,63
+85,"Varun Iyer","Ramjas College","New Delhi",97,93,94,98
+86,"Aditi Rao","Presidency University","Bengaluru, KA",89,82,84,86
+87,"Bhuvan Khanna","IIIT Bangalore","Bangalore, KA",76,79,75,72
+88,"Chhaya Devi","Patna University","Patna, Bihar",64,67,61,65
+89,"Dinesh Kumar","Rajasthan University","Jaipur, RJ",92,95,93,96
+90,"Esha Gupta","Daulat Ram College","New Delhi",78,74,70,73
+91,"Faiz Alam","Osmania Medical College","Hyderabad, TS",80,83,79,82
+92,"Geeta Menon","National Law School","Bengaluru, KA",90,91,88,89
+93,"Harsh Pande","Himalayan University","Arunachal Pradesh",69,66,62,68
+94,"Isha Singhal","BITS Goa","Zuari Nagar, Goa",85,88,86,84
+95,"Jayanth Chakravarthy","IISER Pune","Pune, MH",99,98,97,99
+96,"Kamala Bose","St. Ann's College","Hyderabad, TS",71,75,73,76
+97,"Lakshmi Narayan","IIT Madras","Chennai, TN",96,94,95,92
+98,"Manoj Reddy","Koneru Lakshmaiah Univ.","Guntur, AP",77,80,76,78
+99,"Nalini Chauhan","Doaba College","Jalandhar, PB",60,63,58,61
+100,"Piyush Mehta","Nirma University","Ahmedabad",84,87,85,83
+101,"Rhea Dasgupta","Presidency Univ. Kolkata","Kolkata, WB",93,90,91,88
+102,"Suresh Varma","Amrita Vishwa Vidyapeetham","Coimbatore, TN",68,71,69,70
+103,"Tejaswani K","IIM Kozhikode","Kozhikode, KL",95,92,94,91
+104,"Uma Kant","University of Hyderabad","Hyderabad, TS",72,75,77,74
+105,"Vandana Iyer","Anna University","Chennai, TN",81,84,82,85
+106,"Nikhil Kapoor","Manipal University","Manipal",77,79,75,82
+107,"Ritu Bhasin","SVKM's NMIMS","MH",94,95,97,90
+108,"Gaurav Taneja","SRM Institute","Chennai",63,66,61,67
+109,"Preeti Murthy","IISc Bangalore","Bangalore",98,97,99,96
+110,"Arjun Singh","IIIT Hyderabad","TS",84,81,85,76
+111,"Vikas Tiwari","Lucknow University","UP",71,75,73,69
+112,"Shreya Malik","Panjab University","Chandigarh",83,87,84,81
+113,"Deepak Kulkarni","Pune University","MH",67,64,60,66
+114,"Lata Verma","Banasthali Vidyapith","RJ",96,98,95,99
+115,"Manish Negi","Graphic Era Univ.","UK",79,76,78,72
+116,"Aisha Sheikh","Jamia Millia Islamia","New Delhi",80,82,76,85
+117,"Sandeep Ghosh","IIT Kharagpur","WB",97,99,98,93
+118,"Nandini Das","Utkal University","Odisha",62,67,63,61
+119,"Rohit Sharma","Mumbai University","Mumbai",74,70,72,77
+120,"Meghna Pillai","Madras University","TN",86,88,86,89
+121,"Ravi Chettri","North-Eastern Hill Univ.","Meghalaya",68,71,69,75
+122,"Pooja Hegde","Kuvempu University","Shimoga, KA",90,84,83,87
+123,"Sanjay Raut","Birla College","MH",75,78,74,70
+124,"Juhi Chandra","Calcutta Univ.","Kolkata",91,92,90,89
+125,"Alok Singh","Ambedkar University","Delhi",66,60,59,62
+126,"Reema Singh","Goa University","Goa",87,91,85,90
+127,"Sanya D'Souza","St. Joseph's College","Bangalore",83,86,88,84
+128,"Tarun Malik","JNTU Kakinada","Kakinada, AP",73,77,75,79
+129,"Urmi Desai","MS University Baroda","Vadodara, GJ",61,65,67,63
+130,"Varun Iyer","Ramjas College","New Delhi",97,93,94,98
+131,"Aditi Rao","Presidency University","Bengaluru, KA",89,82,84,86
+132,"Bhuvan Khanna","IIIT Bangalore","Bangalore, KA",76,79,75,72
+133,"Chhaya Devi","Patna University","Patna, Bihar",64,67,61,65
+134,"Dinesh Kumar","Rajasthan University","Jaipur, RJ",92,95,93,96
+135,"Esha Gupta","Daulat Ram College","New Delhi",78,74,70,73
+136,"Faiz Alam","Osmania Medical College","Hyderabad, TS",80,83,79,82
+137,"Geeta Menon","National Law School","Bengaluru, KA",90,91,88,89
+138,"Harsh Pande","Himalayan University","Arunachal Pradesh",69,66,62,68
+139,"Isha Singhal","BITS Goa","Zuari Nagar, Goa",85,88,86,84
+140,"Jayanth Chakravarthy","IISER Pune","Pune, MH",99,98,97,99
+141,"Diya Patel","Fergusson College","Pune",88,80,82,84
+142,"Karan Joshi","IIM Ahmedabad","Ahmedabad",72,68,70,65
+143,"Tanu Gupta","Jadavpur University","Kolkata",93,96,94,92
+144,"Vijay Kumar","Osmania University","Hyderabad",81,79,77,80
+145,"Meera Nair","Christ University","Bengaluru",60,62,58,64
+146,"Harshita Rao","VIT Vellore","Bangalore",89,86,87,78
+147,"Siddharth Das","NIT Trichy","Trichy",76,74,81,73
+148,"Anjali Iyer","Loyola College","Chennai",91,90,89,94
+149,"Rajesh Yadav","Delhi University","West Delhi",68,65,62,70
+150,"Kavya Shah","Amity University","UP",85,83,80,86
+151,"Viju","WCEM","Dongargoan",80,90,70,60
+152,"Digaram","Palloti","nagpur",80,75,85,90
+153,"Sevak","Pune","bhandara",70,85,95,70
+154,"Ravi","Hinganghat","Sahapur",65,85,70,80
+155,"Sakshi","GCOE","Gondia",70,60,55,65
+156,"Sushila","Sent claret","nagpur",80,85,75,90
+157,"Parv","Maharshi","Bela",70,85,65,70
+158,"Tiya","GOEM","sakoli",80,65,55,70
+159,"Sagar","Raisoni","Pune",90,68,77,87
+160,"Ajit","GOCE","Chandrapur",90,55,75,80
+161,"Amit","Gayakwad patil","Mohgaon",60,78,85,70
+162,"Pranay","YCC","Hingana",70,75,85,90
+163,"Swati","YCC","Hingana",60,74,65,50
+164,"Chetana","YCC","Hingana",84,65,89,80
+165,"Riya","YCC","Hingana",81,73,75,60
+166,"Hina Wadhwa","Hans Raj College","New Delhi",88,85,86,83
+167,"Inderjeet Gill","SGT University","Gurugram, HR",70,72,68,71
+168,"Jahnavi Varma","Andhra University","Visakhapatnam, AP",94,96,97,95
+169,"Kunal Mehra","Rani Durgavati Univ.","Jabalpur, MP",63,66,62,65
+170,"Lekha Sree","Anna University","Chennai, TN",98,99,95,97
+171,"Mohan Raj","Madurai Kamaraj Univ.","Madurai, TN",74,70,72,77
+172,"Nidhi Bansal","BML Munjal University","Gurugram, HR",86,88,89,85
+173,"Omkar Shinde","Shivaji University","Kolhapur, MH",75,78,73,70
+174,"Parul Garg","Maharaja Agrasen Univ.","Solan, HP",91,94,92,93
+175,"Qasim Rizvi","Maulana Azad College","Kolkata",66,60,59,62
+176,"Reema Singh","Goa University","Goa",87,91,85,90
+177,"Sanya ","St College","Bangalore",83,86,88,84
+178,"Tarun Malik","JNTU Kakinada","Kakinada, AP",73,77,75,79
+179,"Urmi Desai","MS University Baroda","Vadodara, GJ",61,65,67,63
+180,"Varun Iyer","Ramjas College","New Delhi",97,93,94,98
+181,"Aditi Rao","Presidency University","Bengaluru, KA",89,82,84,86
+182,"Bhuvan Khanna","IIIT Bangalore","Bangalore, KA",76,79,75,72
+183,"Chhaya Devi","Patna University","Patna, Bihar",64,67,61,65
+184,"Dinesh Kumar","Rajasthan University","Jaipur, RJ",92,95,93,96
+185,"Esha Gupta","Daulat Ram College","New Delhi",78,74,70,73
+186,"Faiz Alam","Osmania Medical College","Hyderabad, TS",80,83,79,82
+187,"Geeta Menon","National Law School","Bengaluru, KA",90,91,88,89
+188,"Harsh Pande","Himalayan University","Arunachal Pradesh",69,66,62,68
+189,"Isha Singhal","BITS Goa","Zuari Nagar, Goa",85,88,86,84
+190,"Jayanth Chakravarthy","IISER Pune","Pune, MH",99,98,97,99
+191,"Kamala Bose","St College","Hyderabad, TS",71,75,73,76
+192,"Lakshmi Narayan","IIT Madras","Chennai, TN",96,94,95,92
+193,"Manoj Reddy","Koneru Lakshmaiah Univ.","Guntur, AP",77,80,76,78
+194,"Nalini Chauhan","Doaba College","Jalandhar, PB",60,63,58,61
+195,"Piyush Mehta","Nirma University","Ahmedabad",84,87,85,83
+196,"Sanvi","Palloti","nagpur",80,75,85,90
+197,"Aditi Rao","Presidency University","Bengaluru, KA",89,82,84,86
+198,"Bhuvan Khanna","IIIT Bangalore","Bangalore, KA",76,79,75,72
+199,"Nayan","GVVK","Bhandara",60,70,80,90
+200,"divyandhu","GCOE","Nagpur",50,90,80,60
